@@ -1,4 +1,4 @@
-# my_first
+# my_todo_list
 
 ## Project setup
 ```
